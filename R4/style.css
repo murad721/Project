@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container{
+    display: flex;
+    width: 80%;
+    /* height: 340px; */
+    margin: 75px auto;
+    flex-wrap: wrap;
+}
+
+.inner-container{
+    width: 32.33%;
+    margin: 0.5%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-size: 100%;
+    overflow: hidden;
+    /* padding: 50px; */
+    text-align: center;
+}
+
+.inner-container div{
+    background-color: rgba(0, 0, 0, 0.544);
+    padding: 50px;
+    color: white;
+    opacity: 0;
+    transition: 0.7s;
+}
+
+.inner-container div:hover{
+    opacity: 1;
+}

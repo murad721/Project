@@ -1,0 +1,33 @@
+.main-container {
+ width: 80%;
+ margin: 100px auto;
+}
+
+.navigation {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+.navigation li {
+    text-align: center;
+    border-radius: 6px;
+    font-size: 20px;
+    padding: 12px;
+    color: white;
+    background-color: rgb(58,58,58);
+    width: 24%;
+    transition: 0.6s;
+    cursor: pointer;
+}   
+
+.navigation li:hover{
+    background-color: black;
+}
+
+.store-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}

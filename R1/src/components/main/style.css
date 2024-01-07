@@ -1,0 +1,38 @@
+.main-container {
+    width: 50%;
+    margin: 100px auto;
+    padding: 100px;
+    border-radius: 50px;
+    background-color:  black;
+}
+
+.main-container h2 {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.main-container p {
+    color: lightgray;
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.main-container button {
+    margin: 20px 5px;
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 8px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.6s;
+    cursor: pointer;
+    color: white;
+}
+
+.main-container button:hover {
+    background-color: white;
+    color:  black;
+}

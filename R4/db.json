@@ -1,0 +1,87 @@
+{
+    "cars": [{
+            "image_url": "http://www.veicolielettricinews.it/files/2013/11/x_doorsopensketch.jpg",
+            "car_model": "Model X",
+            "car_make": "Tesla",
+            "car_price": 75000,
+            "car_category": "Sedan"
+        },
+        {
+            "image_url": "",
+            "car_model": "Wrangler",
+            "car_make": "Jeep",
+            "car_price": 45000,
+            "car_category": "Off-road"
+        },
+        {
+            "image_url": "https://news.maxabout.com/wp-content/uploads/2017/02/New-Toyota-Camry-Hybrid-2.jpg",
+            "car_model": "Camry",
+            "car_make": "Toyota",
+            "car_price": 35000,
+            "car_category": "Sedan"
+        },
+        {
+            "image_url": "https://tse4.mm.bing.net/th?id=OIP.m00mUWVnKeMDNnLXO-FCfgHaE8&pid=Api&P=0&h=180",
+            "car_model": "Sienna",
+            "car_make": "Toyota",
+            "car_price": 40000,
+            "car_category": "Van"
+        },
+        {
+            "image_url": "https://tse1.mm.bing.net/th?id=OIP.qxSCKceIO16nrEPxhPrxKwHaE8&pid=Api&P=0&h=180",
+            "car_model": "Civic",
+            "car_make": "Honda",
+            "car_price": 30000,
+            "car_category": "Sedan"
+        },
+        {
+            "image_url": "https://st.motortrendenespanol.com/uploads/sites/45/2016/05/2016-Ford-F-150-Limited-front-three-quarters.jpg",
+            "car_model": "F-150",
+            "car_make": "Ford",
+            "car_price": 50000,
+            "car_category": "Off-road"
+        },
+        {
+            "image_url": "https://auto.ironhorse.ru/wp-content/uploads/2015/12/Dodge-Grand-Caravan-5.jpg",
+            "car_model": "Grand Caravan",
+            "car_make": "Dodge",
+            "car_price": 35000,
+            "car_category": "Van"
+        },
+        {
+            "image_url": "https://tse2.mm.bing.net/th?id=OIP.TRsYsoXQfGoww5izknEhjgHaEc&pid=Api&P=0&h=180",
+            "car_model": "Accord",
+            "car_make": "Honda",
+            "car_price": 32000,
+            "car_category": "Sedan"
+        },
+        {
+            "image_url": "https://i.pinimg.com/originals/9d/00/ed/9d00ed0fdb133506f266ee4c0d8edf89.jpg",
+            "car_model": "Range Rover",
+            "car_make": "Land Rover",
+            "car_price": 90000,
+            "car_category": "Off-road"
+        },
+        {
+            "image_url": "https://images.wheels.ca/wp-content/uploads/2017/10/Chrysler-Pacifica-S-package.jpg",
+            "car_model": "Pacifica",
+            "car_make": "Chrysler",
+            "car_price": 40000,
+            "car_category": "Van"
+        },
+        {
+            "image_url": "https://s.car.info/image_files/1920/chevrolet-camaro-front-side-0-349191.jpg",
+            "car_model": "Camaro",
+            "car_make": "Chevrolet",
+            "car_price": 55000,
+            "car_category": "Sedan"
+        },
+        {
+            "image_url": "https://frogcars.com/wp-content/uploads/2016/01/2017-Toyota-4Runner-On-the-road.jpg",
+            "car_model": "4Runner",
+            "car_make": "Toyota",
+            "car_price": 45000,
+            "car_category": "Off-road"
+        }
+    ]
+}
